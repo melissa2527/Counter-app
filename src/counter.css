@@ -1,0 +1,31 @@
+body {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container {
+    background-color: #232323;
+    width: 90vw;
+    height: 90vh;
+}
+h1 {
+    padding: 1.5em;
+}
+.btn {
+    padding: .75em;
+    border-radius: 5px;
+    margin: .5em;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: plum;
+}
+
+.five {
+    width: 8rem;
+    background-color: palegreen;
+}
